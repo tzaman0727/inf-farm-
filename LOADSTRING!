@@ -1,0 +1,2 @@
+THE LOAD STRING!!!!!!!!!!!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tzaman0727/inf-farm-/refs/heads/main/README.md"))()
